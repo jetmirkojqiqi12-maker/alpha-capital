@@ -126,6 +126,10 @@ p {
   display: flex;
 }
 
+.capital_hero-buttons.none {
+  display: none;
+}
+
 .alpha_capital-button {
   grid-column-gap: .625rem;
   grid-row-gap: .625rem;
@@ -335,6 +339,10 @@ p {
   justify-content: center;
   align-items: center;
   display: flex;
+}
+
+.middle_align.hidden {
+  display: none;
 }
 
 .earn_image {
