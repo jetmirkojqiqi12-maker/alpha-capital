@@ -13,3 +13,20 @@
 
 /js/*
   Cache-Control: no-cache, must-revalidate
+  Content-Type: application/javascript
+
+/assets/terms-and-conditions.pdf
+  Content-Type: application/pdf
+  Cache-Control: public, max-age=3600
+
+/assets/*.pdf
+  Content-Type: application/pdf
+
+/assets/pdf.worker.js
+  Content-Type: application/javascript
+
+/assets/pdf.worker.min.mjs
+  Content-Type: application/javascript
+
+/*.mjs
+  Content-Type: application/javascript

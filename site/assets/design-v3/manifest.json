@@ -1,0 +1,179 @@
+{
+  "1 Step _ Alpha One _ Checkout": {
+    "images": [
+      "/assets/design-v3/images/png_45c063dd32.png",
+      "/assets/design-v3/images/png_43321ca13f.png",
+      "/assets/design-v3/images/png_bdb9b3df2b.png",
+      "/assets/design-v3/images/png_7d12b055bc.png",
+      "/assets/design-v3/images/png_e378520de7.png",
+      "/assets/design-v3/images/jpg_997ac35111.jpg"
+    ],
+    "patterns": [
+      "pattern0_250_268",
+      "pattern1_250_268",
+      "pattern2_250_268",
+      "pattern3_250_268",
+      "pattern4_250_268",
+      "pattern5_250_268",
+      "pattern0_250_268:image0_250_268",
+      "pattern1_250_268:image1_250_268",
+      "pattern2_250_268:image2_250_268",
+      "pattern3_250_268:image3_250_268",
+      "pattern4_250_268:image4_250_268",
+      "pattern5_250_268:image5_250_268"
+    ]
+  },
+  "1 Step _ Alpha One _ Step 1-1": {
+    "images": [
+      "/assets/design-v3/images/png_37133fc5e3.png",
+      "/assets/design-v3/images/png_93b6772952.png",
+      "/assets/design-v3/images/png_09656f83de.png",
+      "/assets/design-v3/images/png_e991b68953.png",
+      "/assets/design-v3/images/jpg_997ac35111.jpg"
+    ],
+    "patterns": [
+      "pattern0_231_7153",
+      "pattern1_231_7153",
+      "pattern2_231_7153",
+      "pattern3_231_7153",
+      "pattern4_231_7153",
+      "pattern0_231_7153:image0_231_7153",
+      "pattern1_231_7153:image1_231_7153",
+      "pattern2_231_7153:image2_231_7153",
+      "pattern3_231_7153:image3_231_7153",
+      "pattern4_231_7153:image4_231_7153"
+    ]
+  },
+  "1 Step _ Alpha One _ Step 1": {
+    "images": [
+      "/assets/design-v3/images/png_37133fc5e3.png",
+      "/assets/design-v3/images/png_93b6772952.png",
+      "/assets/design-v3/images/png_09656f83de.png",
+      "/assets/design-v3/images/png_e991b68953.png",
+      "/assets/design-v3/images/jpg_997ac35111.jpg"
+    ],
+    "patterns": [
+      "pattern0_231_5412",
+      "pattern1_231_5412",
+      "pattern2_231_5412",
+      "pattern3_231_5412",
+      "pattern4_231_5412",
+      "pattern0_231_5412:image0_231_5412",
+      "pattern1_231_5412:image1_231_5412",
+      "pattern2_231_5412:image2_231_5412",
+      "pattern3_231_5412:image3_231_5412",
+      "pattern4_231_5412:image4_231_5412"
+    ]
+  },
+  "2 Step  _ Checkout": {
+    "images": [
+      "/assets/design-v3/images/png_45c063dd32.png",
+      "/assets/design-v3/images/png_43321ca13f.png",
+      "/assets/design-v3/images/png_bdb9b3df2b.png",
+      "/assets/design-v3/images/png_7d12b055bc.png",
+      "/assets/design-v3/images/png_e378520de7.png",
+      "/assets/design-v3/images/jpg_997ac35111.jpg"
+    ],
+    "patterns": [
+      "pattern0_250_2238",
+      "pattern1_250_2238",
+      "pattern2_250_2238",
+      "pattern3_250_2238",
+      "pattern4_250_2238",
+      "pattern5_250_2238",
+      "pattern0_250_2238:image0_250_2238",
+      "pattern1_250_2238:image1_250_2238",
+      "pattern2_250_2238:image2_250_2238",
+      "pattern3_250_2238:image3_250_2238",
+      "pattern4_250_2238:image4_250_2238",
+      "pattern5_250_2238:image5_250_2238"
+    ]
+  },
+  "2 Step _ Alpha One _ Step 1 Objectives On": {
+    "images": [
+      "/assets/design-v3/images/png_37133fc5e3.png",
+      "/assets/design-v3/images/png_93b6772952.png",
+      "/assets/design-v3/images/png_09656f83de.png",
+      "/assets/design-v3/images/png_e991b68953.png",
+      "/assets/design-v3/images/jpg_997ac35111.jpg"
+    ],
+    "patterns": [
+      "pattern0_250_5018",
+      "pattern1_250_5018",
+      "pattern2_250_5018",
+      "pattern3_250_5018",
+      "pattern4_250_5018",
+      "pattern0_250_5018:image0_250_5018",
+      "pattern1_250_5018:image1_250_5018",
+      "pattern2_250_5018:image2_250_5018",
+      "pattern3_250_5018:image3_250_5018",
+      "pattern4_250_5018:image4_250_5018"
+    ]
+  },
+  "2 Step _ Alpha One _ Step 1": {
+    "images": [
+      "/assets/design-v3/images/png_37133fc5e3.png",
+      "/assets/design-v3/images/png_93b6772952.png",
+      "/assets/design-v3/images/png_09656f83de.png",
+      "/assets/design-v3/images/png_e991b68953.png",
+      "/assets/design-v3/images/jpg_997ac35111.jpg"
+    ],
+    "patterns": [
+      "pattern0_250_1493",
+      "pattern1_250_1493",
+      "pattern2_250_1493",
+      "pattern3_250_1493",
+      "pattern4_250_1493",
+      "pattern0_250_1493:image0_250_1493",
+      "pattern1_250_1493:image1_250_1493",
+      "pattern2_250_1493:image2_250_1493",
+      "pattern3_250_1493:image3_250_1493",
+      "pattern4_250_1493:image4_250_1493"
+    ]
+  },
+  "3 Step  _ Checkout": {
+    "images": [
+      "/assets/design-v3/images/png_45c063dd32.png",
+      "/assets/design-v3/images/png_43321ca13f.png",
+      "/assets/design-v3/images/png_bdb9b3df2b.png",
+      "/assets/design-v3/images/png_7d12b055bc.png",
+      "/assets/design-v3/images/png_e378520de7.png",
+      "/assets/design-v3/images/jpg_997ac35111.jpg"
+    ],
+    "patterns": [
+      "pattern0_250_7486",
+      "pattern1_250_7486",
+      "pattern2_250_7486",
+      "pattern3_250_7486",
+      "pattern4_250_7486",
+      "pattern5_250_7486",
+      "pattern0_250_7486:image0_250_7486",
+      "pattern1_250_7486:image1_250_7486",
+      "pattern2_250_7486:image2_250_7486",
+      "pattern3_250_7486:image3_250_7486",
+      "pattern4_250_7486:image4_250_7486",
+      "pattern5_250_7486:image5_250_7486"
+    ]
+  },
+  "3 Step _ Alpha One _ Step 1": {
+    "images": [
+      "/assets/design-v3/images/png_37133fc5e3.png",
+      "/assets/design-v3/images/png_93b6772952.png",
+      "/assets/design-v3/images/png_09656f83de.png",
+      "/assets/design-v3/images/png_e991b68953.png",
+      "/assets/design-v3/images/jpg_997ac35111.jpg"
+    ],
+    "patterns": [
+      "pattern0_250_5842",
+      "pattern1_250_5842",
+      "pattern2_250_5842",
+      "pattern3_250_5842",
+      "pattern4_250_5842",
+      "pattern0_250_5842:image0_250_5842",
+      "pattern1_250_5842:image1_250_5842",
+      "pattern2_250_5842:image2_250_5842",
+      "pattern3_250_5842:image3_250_5842",
+      "pattern4_250_5842:image4_250_5842"
+    ]
+  }
+}
