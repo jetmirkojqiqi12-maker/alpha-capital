@@ -2043,14 +2043,17 @@ head.appendChild(script);
                 </div>
                 <div class="option_group">
                   <h3 class="head option_group_title">EA Use</h3>
-                  <div class="option_row" id="ea-options">
-                    <button type="button" class="option_pill is-selected" data-ea="yes">
-                      <span class="option_radio"></span><span>Yes</span>
-                    </button>
-                    <button type="button" class="option_pill" data-ea="no">
-                      <span class="option_radio"></span><span>No</span>
-                    </button>
+                  <div class="option_row" id="ea-options"></div>
+                </div>
+              </div>
+
+              <div class="checkout_div is-hidden" id="payout-section">
+                <div class="div">
+                  <div class="heading">
+                    <h3 class="head">Payout Type</h3>
+                    <div class="parag">Choose between bi-weekly or on-demand payouts.</div>
                   </div>
+                  <div class="option_row" id="payout-options"></div>
                 </div>
               </div>
 
@@ -2076,6 +2079,16 @@ head.appendChild(script);
                 <div class="form_field_group">
                   <label class="form_label" for="contact">Phone Number</label>
                   <input class="form_field" id="contact" name="contact" type="tel" placeholder="Phone Number" required />
+                </div>
+                <div class="form_field_group">
+                  <label class="form_label" for="city">City</label>
+                  <input class="form_field" id="city" name="city" type="text" placeholder="City" required />
+                </div>
+                <div class="form_field_group">
+                  <label class="form_label" for="country">Country</label>
+                  <select class="form_field form_select" id="country" name="country" required>
+                    <option value="">Select country</option>
+                  </select>
                 </div>
               </form>
               <div class="form_message" id="form-message"></div>
@@ -2148,24 +2161,32 @@ head.appendChild(script);
               </div>
 
               <div class="sidebar_actions is-hidden" id="sidebar-checkout-actions">
+                <p class="legal_intro">By confirming the order:</p>
                 <div class="legal_row">
                   <label class="legal_label">
                     <input type="checkbox" data-check="tnc" />
-                    <span>I declare that I have read and agree with Terms &amp; Conditions, Privacy policy, General Service Agreement.</span>
+                    <span>I declare that I have read and agree with <a href="terms-and-conditions.html" target="_blank" rel="noopener noreferrer">Terms &amp; Conditions</a>, <a href="privacy-policy-2.html" target="_blank" rel="noopener noreferrer">Privacy Policy</a>, General Service Agreement, Trading terms and conditions.*</span>
                   </label>
                 </div>
                 <div class="legal_row">
                   <label class="legal_label">
                     <input type="checkbox" data-check="notUs" />
-                    <span>I'm not a US resident or citizen.</span>
+                    <span>I'm not a US resident or citizen.*</span>
                   </label>
                 </div>
                 <div class="legal_row">
                   <label class="legal_label">
                     <input type="checkbox" data-check="identity" />
-                    <span>I acknowledge that signing up with personal details that do not match my ID/Password information, will lead to suspension of my payout(s) and closure of my account(s).</span>
+                    <span>I acknowledge that signing up with personal details that do not match my ID/Personal information will lead to suspension of my payout(s) and closure of my account(s).*</span>
                   </label>
                 </div>
+                <div class="legal_row">
+                  <label class="legal_label">
+                    <input type="checkbox" data-check="newsletter" />
+                    <span>Send me an exclusive welcome offer, trader insights, product updates and discounts from Alpha Capital Group by email. You can unsubscribe at any time.</span>
+                  </label>
+                </div>
+                <p class="legal_error is-hidden" id="legal-error">Please accept the terms and conditions</p>
               </div>
             </div>
           </div>
@@ -2189,6 +2210,7 @@ head.appendChild(script);
         </style>
       </div>
     </section>
+      
       
       
       
